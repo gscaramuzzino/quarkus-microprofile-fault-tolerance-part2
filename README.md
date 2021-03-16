@@ -1,5 +1,5 @@
 # Microprofile Fault Tolerance with Quarkus Part 2
-Microprofile Fault Tolerance with Quarkus | Part 2 | @Timeout and @CircuitBreaker | @Retry
+Microprofile Fault Tolerance with Quarkus | Part 2 | @Timeout | @CircuitBreaker and @Retry
 
 It is increasingly important to build fault-tolerant #microservice. 
 The MicroProfile Fault Tolerance feature defines a standard API to implement a set of fault tolerance policies. Microprofile Fault Tolerance makes it easy to build resilient microservices that provide reliable function, even when errors occur.
