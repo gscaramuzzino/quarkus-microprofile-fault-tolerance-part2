@@ -10,5 +10,5 @@ The MicroProfile Fault Tolerance feature defines a standard API to implement a s
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+If you want to learn more about Quarkus, please visit its website: https://quarkus.io/. \
 If you want to learn more about Microprofile, please visit its website: https://microprofile.io/ .
